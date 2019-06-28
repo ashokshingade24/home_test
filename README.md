@@ -2,7 +2,7 @@
 
  Clone the Repository
  ```
- git clone https://github.com/ashokshingade24/home_test
+ git clone https://github.com/ashokshingade24/home_test.git
  cd home_test/
  ```
  
